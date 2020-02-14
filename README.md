@@ -11,3 +11,7 @@
 #### ![Result of all features](https://github.com/ZHM420/Target-recognition-algorithm-optimization/blob/master/ML_64.png)
 ##### _Result of best 8 features / PoE: 4.17%_
 #### ![Result of best 8 features](https://github.com/ZHM420/Target-recognition-algorithm-optimization/blob/master/ML_best.png)
+### Comparison of BPE, MAP and ML
+#### MAP is the best especially in the condition of lack of data, while ML is the worst. MAP converges to BPE as amount of data increasing if data has Gaussian distribution
+##### _Comparison of three method_
+#### ![compare](https://github.com/ZHM420/Target-recognition-algorithm-optimization/blob/master/BPE_MAP_ML.png)
